@@ -2,6 +2,5 @@
 トロッコのmax_speedの値を時速に換算したものを載せてあります。
 各自コピペや置換するなどして使ってください。
 
-# 利用規約
-改変自由・転載自由
-ただしHakoの名前を載せること。
+# ライセンス
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
