@@ -3,4 +3,4 @@
 各自コピペや置換するなどして使ってください。
 
 # ライセンス
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
