@@ -4,4 +4,4 @@
 テキストファイルとエクセルのファイルがあるので各自コピペや置換するなどして使ってください。
 
 # ライセンス
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
